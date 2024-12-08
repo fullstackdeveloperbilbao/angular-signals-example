@@ -1,0 +1,10 @@
+.app-container {
+  display: flex;
+
+  & .app-image-container {
+    width: 50%;
+  }
+  & .app-list-container {
+    width: 50%;
+  }
+}
